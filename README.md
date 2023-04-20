@@ -12,11 +12,11 @@ Install Flask using pip: pip install flask.
 
 ## Usage
 
-Open a terminal or command prompt and navigate to the directory where this application's code is saved.
+- Open a terminal or command prompt and navigate to the directory where this application's code is saved.
 
-Run the application by typing python <filename>.py (where <filename> is the name of the Python file).
+- Run the application by typing python <filename>.py (where <filename> is the name of the Python file).
 
-Open a web browser and go to http://localhost:5000/. You should see the message "Hello World!" displayed on the page.
+- Open a web browser and go to http://localhost:5000/. You should see the message "Hello World!" displayed on the page.
 
 ## Troubleshooting
 If the application fails to run, try the following:

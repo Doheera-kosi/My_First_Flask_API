@@ -4,11 +4,11 @@
 This is a simple Flask application that responds with "Hello World!" when accessed.
 
 ## Installation
-To run this application, you need to have Python and Flask installed on your system.
+- To run this application, you need to have Python and Flask installed on your system.
 
-Install Python from the official website (https://www.python.org/downloads/).
+- Install Python from the official website (https://www.python.org/downloads/).
 
-Install Flask using pip: pip install flask.
+- Install Flask using pip: pip install flask.
 
 ## Usage
 
